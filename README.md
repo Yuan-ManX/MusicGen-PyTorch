@@ -1,2 +1,2 @@
-# MusicGen-PyTorch
+# MusicGen PyTorch
 PyTorch implementation of MusicGen
